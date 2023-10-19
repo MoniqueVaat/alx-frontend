@@ -1,0 +1,6 @@
+/*
+this is a html scroll
+*/
+html {
+    scroll-behavior: smooth;
+}
